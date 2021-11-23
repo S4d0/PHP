@@ -19,4 +19,11 @@ for($i=0; $i<count($arr); $i++)
     $start = $arr[$i]+1;
 }
 
+// OUTPUT
+// S4d0
+// i dont like
+// P H P
+// i hate
+// HTML
+// test
 ?>
